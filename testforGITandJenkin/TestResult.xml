@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TestReport time="Mon Jan 20 07:41:49 IST 2020">
+<TestCases>
+<TestCase id="001"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00372</URL>
+<Email>AGraham@pkc.gov.uk</Email>
+<TestCase id="002"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00337</URL>
+<Email>procurement@north-ayrshire.gov.uk</Email>
+<TestCase id="003"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA14482</URL>
+<Email>info@langstane-ha.co.uk</Email>
+<TestCase id="004"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00196</URL>
+<Email>sandra.maclennan@glasgow.gov.uk</Email>
+<TestCase id="005"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA17204</URL>
+<Email>grant.kaye@caledoniaha.co.uk</Email>
+<TestCase id="006"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA30290</URL>
+<Email>brian.loudon@capitaltheatres.com</Email>
+<TestCase id="007"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA10285</URL>
+<Email>maureenmbatten@gmail.com</Email>
+<TestCase id="008"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA12162</URL>
+<Email>tom.hastings@tollcross-ha.org.uk</Email>
+<TestCase id="009"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00045</URL>
+<Email> employability@highland.gov.uk</Email>
+<TestCase id="010"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA14342</URL>
+<Email>craig.hotchkiss@alliedsurveyorsscotland.com</Email>
+<TestCase id="011"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00196</URL>
+<Email>sandra.maclennan@glasgow.gov.uk</Email>
+<TestCase id="012"/>
+<URL>nickt@scapegroup.co.uk</URL>
+<Email>nickt@scapegroup.co.uk</Email>
+<TestCase id="013"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA14462</URL>
+<Email>info@grampianhousing.co.uk</Email>
+<TestCase id="014"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA12862</URL>
+<Email>procurement@sds.co.uk</Email>
+<TestCase id="015"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA11502</URL>
+<Email>maureenmbatten@gmail.com</Email>
+<TestCase id="016"/>
+<URL> https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00063</URL>
+<Email>Alistair.Macvicar2@argyll-bute.gov.uk</Email>
+<TestCase id="017"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA10562</URL>
+<Email>maureenmbatten@gmail.com</Email>
+<TestCase id="018"/>
+<URL>https://www.publiccontractsscotland.gov.uk/search/Search_AuthProfile.aspx?ID=AA00099</URL>
+<Email>Ronnie.Mellis@transport.gov.scot</Email>
+<TestCase id="019"/>
+<URL>http://www.north-ayrshire.gov.uk</URL>
+<Email>procurement@north-ayrshire.gov.uk</Email>
+</TestCases>
+</TestReport>

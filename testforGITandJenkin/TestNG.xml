@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Shopworx Assignment">
+
+	<listeners>
+		<listener class-name="com.ShopWorxV1.Utility.Reporting" />
+	</listeners>
+	
+
+	<test name="Shopworx Assignment">
+		
+		<classes>
+		
+			<class name="com.ShopWorxV1.TestCeses.TC_LoginDDTest" />
+			
+		</classes>
+		
+
+	</test>
+
+</suite>
